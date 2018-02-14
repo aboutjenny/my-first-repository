@@ -1,0 +1,100 @@
+/* Main Styles */
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background: #272731;
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+}
+
+/* Headers */
+h1, h2, h3, h4, h5, h6 {
+  color: #E8ABF7;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+
+h1 {
+
+
+}
+
+h2 {
+
+
+}
+
+/* Typography */
+p {
+
+
+}
+
+/* Lists */
+ul {
+
+}
+
+li {
+  list-style-type: disc;
+}
+
+/* Image Code */
+img {
+  max-width: 100%;
+}
+
+/* Links */
+a {
+  color: #2AEBEB;
+}
+
+a:hover, a:focus {
+  color: #27D1CF;
+}
+
+/* General Styles */
+#hero {
+  background-image: url("../images/diving-hero.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  min-height: 500px;
+}
+
+.text--large {
+
+}
+
+.text--small {
+
+}
+
+/* Target all blocks */
+.block {
+
+}
+
+/* Specifically target the text blocks */
+.block--text {
+
+}
+
+/* Specifically target the image blocks */
+.block--image {
+
+}
+
+footer {
+  padding: 1em;
+  background-color: #ccc;
+  color: #000;
+}
